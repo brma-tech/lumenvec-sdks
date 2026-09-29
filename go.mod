@@ -1,6 +1,6 @@
 module github.com/brma-tech/lumenvec-sdks
 
-go 1.26.0
+go 1.26.6
 
 require (
 	google.golang.org/grpc v1.83.2
