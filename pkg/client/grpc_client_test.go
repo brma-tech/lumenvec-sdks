@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	lumenvecpb "lumenvec/api/proto"
+	lumenvecpb "github.com/brma-tech/lumenvec-sdks/api/proto"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
