@@ -2,3 +2,8 @@
 **/__pycache__/
 .pytest_cache/
 *.exe
+.venv/
+.integration-assets/
+.integration-data/
+**/dist/
+**/*.egg-info/
